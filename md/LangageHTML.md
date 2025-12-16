@@ -13,3 +13,11 @@ Une balise html s'ecris: `<mabalise></mabalise>`
 le texte s'ecrit entre balise.**
 
 **ex.** `<h1> mon texte </h1>`
+
+Il existe aussi des balise orphelines:
+`<!DOCTYPE html> , <br> , <img> .....`
+
+reference mozzila [https://developer.mozilla.org/fr/docs/Web/HTML/Reference/Elements](https://developer.mozilla.org/fr/docs/Web/HTML/Reference/Elements)
+
+une balise ouvrante peut contenir un attribut nottamet `class=""`:
+`<`
