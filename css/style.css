@@ -1,0 +1,30 @@
+        body {
+            background-color: purple;
+        }
+        p {
+            color: white;
+            background-color: rgb(71, 66, 60);
+        }
+
+        .deux{
+            background-color: blue;
+        } 
+       
+
+        img{
+            height:200px;
+            width:600px;
+            border: 5px solid black;
+            border-radius: 10px;
+            box-shadow: 5px 5px 200px yellow;
+
+        }
+
+        .deux{
+            color:brown;
+            background-color:yellow;
+        }
+        ol{
+            color:navajowhite;
+        }
+        
