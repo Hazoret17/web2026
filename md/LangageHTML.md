@@ -20,4 +20,10 @@ Il existe aussi des balise orphelines:
 reference mozzila [https://developer.mozilla.org/fr/docs/Web/HTML/Reference/Elements](https://developer.mozilla.org/fr/docs/Web/HTML/Reference/Elements)
 
 une balise ouvrante peut contenir un attribut nottamet `class=""`:
-`<`
+`<h1 class="maclasse"></h1>`
+quelque balise importante
+<h1></h1> por faire des titre
+<p></p> pour faire des paragraphe
+`<a href=""></a>` pour faire des liens
+`<ul></ul>` pour faire des liste sans ordre
+`<ol></ol>` pour faire des liste avec ordre
