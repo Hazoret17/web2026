@@ -4,20 +4,22 @@
         p {
             color: white;
             background-color: rgb(71, 66, 60);
+            width: 100%;
         }
 
         .deux{
             background-color: blue;
+            font-size: 20px;
         } 
        
 
         img{
-            height:200px;
-            width:600px;
+            height:100px;
+            width:800px;
             border: 5px solid black;
             border-radius: 10px;
             box-shadow: 5px 5px 200px yellow;
-
+            margin-left: 299px;
         }
 
         .deux{
@@ -28,3 +30,21 @@
             color:navajowhite;
         }
         
+        .boite{
+            border-width:5px;
+            border-style:solid;
+            width: 500px;
+            margin-left: 400px;
+        }
+        button{
+            margin-left:600px;
+            background-color: pink;
+            border-radius: 10px;
+            height: 50px;
+            width: 150px;
+            font-size: 20px;
+        }
+        h1{
+            color: orange;
+            text-align: center;
+        }

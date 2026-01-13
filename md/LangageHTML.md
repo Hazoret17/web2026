@@ -52,3 +52,10 @@ selecteur{propriete 1: valeur 1;
  Il existe plus de 500 propriete et encore davantage de valeur possible. cependant les valeur sont souvent : 
  -une couleur 
  - une taille
+ -px (pourcentage(%))
+
+ les element d'une image sont contenu dans une boite entouree d'une bordure qui pars defaut est invisible l'espace entre le contenu et la bordure ca s'appel padding 
+ et l'esapce entre la bordure et les element autour s'apppel la marge ou margin
+
+ la bordure border peut elle meme avoir un style
+ rem: Les conteneur universel <div></div> et <span></span>
