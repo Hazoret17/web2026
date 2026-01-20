@@ -2,8 +2,8 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./css/style.css">
     <title>Debuter en HTML</title>
     
 </head>
@@ -24,7 +24,7 @@
    </a>
    </p>
    </div>
-       <a href="../web2026/html/deuxieme.html"><button>boutton</button></a>
+       <a href="deuxieme.html"><button>boutton</button></a>
 
    <p>
     voici une liste sans ordre:
@@ -42,9 +42,24 @@
    </p>
 
    
-<img src="./img/cookie.jpg">
+<img src="../img/cookie.jpg">
 
-<input type="text" name="login" id="login">
+<input type="texte" name="login" id="login">
 <input onclick="alert('bite')" type="button" id="button">
+
+    <form action="">
+        <input type="range" name="range" id="range" value="">
+        <input type="texte" name="texte" id="texte" value="Bonjour">
+    </form>
+<script>
+   // let curseur = document.querySelector("input");
+   // console.log(curseur);
+   // console.log(curseur.value);
+    let curseur = document.getElementById("texte");
+    console.log(curseur);
+    console.log(curseur.value);
+
+
+</script>
 </body>
 </html>

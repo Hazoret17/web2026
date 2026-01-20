@@ -59,3 +59,11 @@ selecteur{propriete 1: valeur 1;
 
  la bordure border peut elle meme avoir un style
  rem: Les conteneur universel <div></div> et <span></span>
+
+ 3. java script
+ c'est le langauge de programmation qui permet de gerer les element interactif d'une page html
+ historiquement les elemnt d'interaction etaient place dans un formulaire <form></form> pour renvoyer des info,au serveur 
+
+dans un formulaire on place les element 
+
+rem une balise <button type="button"></button> a ete specifiquement cree par button
